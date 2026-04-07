@@ -1,0 +1,54 @@
+# Backup files
+*.bak
+*.bck
+*-bak/
+*_bak/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*backups/
+
+# Auto-save files
+*~
+
+# KiCad 5/6+ local settings (machine-specific)
+fp-info-cache
+*.kicad_prl
+
+# Gerber output folder (generated, not source)
+fabrication/
+
+# 3D model render cache
+*.3dshapes/
+
+# BOM and netlist exports (generated files)
+*.xml
+*.csv
+*.xlsx
+
+# Simulation files
+*.cir
+*.raw
+*.log
+
+# KiCad temporary files
+*.lock
+
+# Python cache (for scripting)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
