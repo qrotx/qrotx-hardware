@@ -688,7 +688,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./fabrication",
+      "plot": "fabrication",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
