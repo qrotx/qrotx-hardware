@@ -6,12 +6,12 @@
 	(paper "USLedger")
 	(title_block
 		(title "qrotx Single Band (40m) Transmitter")
-		(date "2026-02-15")
+		(date "2026-04-06")
 		(rev "0")
 		(company "Christian Riesch K2CRI")
 		(comment 1 "Copyright (c) 2024-2026 Christian Riesch, christian@riesch.at")
 		(comment 2 "Licensed under CERN-OHL-S v2 or any later version, https://ohwr.org/cern_ohl_s_v2.txt")
-		(comment 3 "https://www.qrotx.org")
+		(comment 3 "https://qrotx.org")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
@@ -3843,6 +3843,16 @@
 			)
 		)
 		(uuid "2a3197ae-7e2c-4803-8ea5-f2515fa7549a")
+	)
+	(text "only place on of the parallel resonators"
+		(exclude_from_sim no)
+		(at 260.35 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5263d8da-85b9-4631-bd12-437dc0c0c74b")
 	)
 	(text "envelope feedback"
 		(exclude_from_sim no)

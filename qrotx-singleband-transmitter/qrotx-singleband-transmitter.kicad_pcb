@@ -9,11 +9,12 @@
 	(paper "USLetter")
 	(title_block
 		(title "qrotx Single Band Transmitter Type 2")
-		(date "2026-04-04")
+		(date "2026-04-06")
 		(rev "0")
 		(company "Christian Riesch K2CRI")
 		(comment 1 "Copyright (c) 2024-2026 Christian Riesch, christian@riesch.at")
 		(comment 2 "Licensed under CERN-OHL-S v2 or any later version, https://ohwr.org/cern_ohl_s_v2.txt")
+		(comment 3 "https://qrotx.org")
 	)
 	(layers
 		(0 "F.Cu" signal)
