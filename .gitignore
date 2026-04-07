@@ -34,6 +34,7 @@ fabrication/
 
 # KiCad temporary files
 *.lock
+*.lck
 
 # Python cache (for scripting)
 __pycache__/
