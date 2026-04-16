@@ -115,6 +115,25 @@
         "zero_format": "decimal"
       },
       "type": "pcb_export_drill"
+    },
+    {
+      "description": "",
+      "id": "3db12439-1722-4e19-8744-a66f0161dce2",
+      "settings": {
+        "description": "",
+        "exclude_dnp": false,
+        "exclude_footprints_with_th": false,
+        "format": "csv",
+        "gerber_board_edge": true,
+        "negate_bottom_x": false,
+        "output_filename": "fabrication",
+        "side": "both",
+        "single_file": false,
+        "smd_only": false,
+        "units": "mm",
+        "use_drill_place_file_origin": true
+      },
+      "type": "pcb_export_pos"
     }
   ],
   "meta": {
